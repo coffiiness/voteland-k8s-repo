@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/coffiiness/voteland-k8s-repo.git
-    targetRevision: main
+    targetRevision: dev
     path: k8s/frontend
   destination:
     server: https://kubernetes.default.svc
