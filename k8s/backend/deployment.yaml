@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: backend
-          image: guddnr5345/voteland-backend:dev-30
+          image: guddnr5345/voteland-backend:dev-31
           ports:
             - containerPort: 8080
