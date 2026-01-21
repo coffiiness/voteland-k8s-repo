@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: guddnr5345/voteland-frontend:dev-36
+          image: guddnr5345/voteland-frontend:dev-37
           ports:
             - containerPort: 80
